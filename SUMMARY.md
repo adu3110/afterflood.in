@@ -41,6 +41,7 @@
 * [Sterilizing drinking water \(Video\)](how-to-disinfect-your-drinking-water-after-a-flood.md)
 * [Five points to keep in mind when circulating messages \(Video\)](remember-these-five-points-while-circulating-messages-in-social-media.md)
 * [Waste Management after Natural Calamities](waste-management-after-natural-calamities.md)
+* [Tips To Claim Insurance](insurance.md)
 * [Ensure Building Safety](ensure-building-safety.md)
 * [Mental Health](mental-health.md)
 * [Contribute](contribute.md)
